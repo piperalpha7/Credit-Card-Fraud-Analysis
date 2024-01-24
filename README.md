@@ -59,7 +59,7 @@ Some of the insights discovered are as follows: -
 👉 Most fraudulent transactions took place between the hours of 22:00- 04:00.
 
 
-Doing this group porject ensured that I learnt a lot about a variety of tools, and how an effective ETL pipeline could bring about so many tools together.
+Doing this group project ensured that I learnt a lot about a variety of tools, and how an effective ETL pipeline could bring about so many tools together.
 
 
 
