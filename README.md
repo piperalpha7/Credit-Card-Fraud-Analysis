@@ -3,10 +3,10 @@
 The primary objective is to derive comprehensive insights from the credit card fraud dataset that was downloaded from Kaggle
 The Credit Card Transactions Fraud Detection Dataset (kaggle.com) Dataset was available in the ‘.csv’ format and therefore would require some transformations before we could use it for any analysis. Our intention was to leverage most of the learning outcomes at the Albany Beck Pioneer Program. The major tools that we utilized are : 
 
-👉 Python\n
-👉 MYSQL\n
-👉 PowerBI\n
-👉 MS-Excel\n
+👉 Python
+👉 MYSQL
+👉 PowerBI
+👉 MS-Excel
 
 ## Roadmap
 
