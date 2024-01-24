@@ -22,8 +22,11 @@ The ‘Clean Data’ was now in the form of DataFrame itself. We now created a t
 
 👉 Path 1 - 'Clean Data' was normalized and divided into 3 Dataframes which would then be loaded as MYSQL tables. The MYSQL Database could then easily be 
    loaded onto PowerBI to carry out any analysis and create a Dashboard.
+   
 👉 Path 2 - Use the ‘Clean Data’ directly in creating some plots in python. 
+
 👉 Path 3 -  Use the ‘Clean Data’ in MS-Excel to create a ‘fraud-customer’ dashboard.
+
 
 As part of the cleaning process, the dataset was normalised using pandas and then loaded onto a MYSQL Database.
 Following is the ERD Diagram of the MYSQL Database
@@ -63,10 +66,6 @@ Some of the insights discovered are as follows: -
 
 
 Doing this group project ensured that I learnt a lot about a variety of tools, and how an effective ETL pipeline could bring about so many tools together.
-
-
-
-
 
 
 
