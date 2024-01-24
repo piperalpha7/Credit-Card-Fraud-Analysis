@@ -60,9 +60,13 @@ Besides this, a customer profile for fraudulent customers was created using MS-E
 Some of the insights discovered are as follows: -
 
 👉 Fraudulent customers comprised of a mere 0.04% of all the customers.
+
 👉 Fraudulent customers seem to be over cautious in the way they spende, always spending between $1 and $1320.
+
 👉 More than 30% of Fraudulent Transactions were done by customers belonging to the age groups of ‘31-40’ and ‘51-60’.
+
 👉 Most fraudulent transactions took place between the hours of 22:00- 04:00.
+
 
 
 Doing this group project ensured that I learnt a lot about a variety of tools, and how an effective ETL pipeline could bring about so many tools together.
